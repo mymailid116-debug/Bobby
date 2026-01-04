@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testsuites>
+  <testsuite name="KuttyTestSuite" tests="2" failures="0" errors="0" skipped="0">
+    <testcase classname="KuttyTest" name="testDisplayMethod"/>
+    <testcase classname="Kutty2Test" name="testMainMethod"/>
+  </testsuite>
