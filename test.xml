@@ -5,3 +5,4 @@
     <testcase classname="KuttyTest" name="testDisplayMethod"/>
     <testcase classname="Kutty2Test" name="testMainMethod"/>
   </testsuite>
+</testsuites>
